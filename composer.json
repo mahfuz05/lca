@@ -1,0 +1,16 @@
+{
+    "name": "mahfuz/bongo",
+    "description": "bongo coding test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahfuzur Rahman",
+            "email": "mahfuzcse05@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "8.5.x-dev"
+    }
+}
